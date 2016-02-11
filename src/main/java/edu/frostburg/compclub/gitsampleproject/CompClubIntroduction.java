@@ -77,4 +77,9 @@ public class CompClubIntroduction {
         System.out.println("---- End Instructions ----");
         System.out.println();
     }
+
+    @Hello
+    public void helloKevinRaoofi() {
+        System.out.println("Hello, I'm Kevin");
+    }
 }
