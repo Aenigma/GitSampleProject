@@ -97,4 +97,9 @@ public class CompClubIntroduction {
     public void mplenty0() {
         System.out.println("My name is Mikhel");
     }
+
+    @Hello
+    public void helloKevinRaoofi() {
+        System.out.println("Hello, I'm Kevin");
+    }
 }
