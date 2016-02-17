@@ -82,4 +82,10 @@ public class CompClubIntroduction {
     public void methodTest() {
     	System.out.println("This is a test method from Seth");
     }
+    
+    @Hello
+    public void kmarshall95() {
+    System.out.println("My name is Kyle");
+    
+}
 }
