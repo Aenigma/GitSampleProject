@@ -79,6 +79,6 @@ public class CompClubIntroduction {
     }
     @Hello
     public void helloGarrettWillingham() {
-        
+        System.out.println("The one with the mohawk.");
     }
 }
