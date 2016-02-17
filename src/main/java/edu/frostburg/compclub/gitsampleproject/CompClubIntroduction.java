@@ -80,19 +80,19 @@ public class CompClubIntroduction {
 
     @Hello
     public void methodTest() {
-    	System.out.println("This is a test method from Seth");
+        System.out.println("This is a test method from Seth");
     }
-    
+
     @Hello
     public void kmarshall95() {
-    System.out.println("My name is Kyle");
-    
-}
+        System.out.println("My name is Kyle");
+    }
 
     @Hello
     public void helloGarrettWillingham() {
         System.out.println("The one with the mohawk.");
-    
+    }
+
     @Hello
     public void mplenty0() {
         System.out.println("My name is Mikhel");
