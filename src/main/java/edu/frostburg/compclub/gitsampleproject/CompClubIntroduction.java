@@ -77,4 +77,8 @@ public class CompClubIntroduction {
         System.out.println("---- End Instructions ----");
         System.out.println();
     }
+    
+    public void mplenty0() {
+        System.out.println("My name is Mikhel")
+    }
 }
