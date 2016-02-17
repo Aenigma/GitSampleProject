@@ -88,4 +88,9 @@ public class CompClubIntroduction {
     System.out.println("My name is Kyle");
     
 }
+
+    @Hello
+    public void helloGarrettWillingham() {
+        System.out.println("The one with the mohawk.");
+    }
 }
