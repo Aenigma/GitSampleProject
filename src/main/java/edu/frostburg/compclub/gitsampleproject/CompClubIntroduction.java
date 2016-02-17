@@ -92,5 +92,9 @@ public class CompClubIntroduction {
     @Hello
     public void helloGarrettWillingham() {
         System.out.println("The one with the mohawk.");
+    
+    @Hello
+    public void mplenty0() {
+        System.out.println("My name is Mikhel");
     }
 }
