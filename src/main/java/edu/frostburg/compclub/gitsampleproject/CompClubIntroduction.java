@@ -78,7 +78,8 @@ public class CompClubIntroduction {
         System.out.println();
     }
     
+    @Hello
     public void mplenty0() {
-        System.out.println("My name is Mikhel")
+        System.out.println("My name is Mikhel");
     }
 }
